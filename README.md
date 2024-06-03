@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyanshchawla23
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning to work on backend for android 
-- 💞️ I’m looking to collaborate on Firebase
+- 🌱 I’m currently learning to work on backend
+- 💞️ I’m looking to collaborate on android projects
 - 📫 How to reach me @gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i have elite ball knowledge
