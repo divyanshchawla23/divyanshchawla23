@@ -15,6 +15,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: i have elite ball knowledge
 
+<p align="center">
+<small>View Counter:</small><br>
+<img src="https://profile-counter.glitch.me/divyanshchawla23/count.svg" /> 
+</p>
+
 ### Skills
 
 
@@ -31,6 +36,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
     </a>
+    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="36" height="36" alt="Android" />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="36" height="36" alt="Firebase" />
+    </a>
 </p>
+
+
+
+    
 
 
