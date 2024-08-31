@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 💞️ I’m looking to collaborate on android projects
 * 📫 How to reach me @dxvyxnsh on X 
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: i have elite ball knowledge
+* ⚡ Fun fact: you can't beat me at fifa
 
 <p align="center">
 <small>View Counter:</small><br>
