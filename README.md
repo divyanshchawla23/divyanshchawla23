@@ -15,116 +15,79 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: you can't beat me at fifa
 
+
+
+
+
+<h2>💻 Tech Stack:</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/groovy-%234A4A4A.svg?style=flat&logo=apache-groovy&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  
+  <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300C4B3.svg?style=flat&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka-%23000000.svg?style=flat&logo=eureka&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/maven-%23C71A36.svg?style=flat&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugger-%23000000.svg?style=flat&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=flat&logo=apache-airflow&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Tesseract-%231A73E8.svg?style=flat&logo=tesseract-ocr&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAP%20API-%23000000.svg?style=flat&logo=soap&logoColor=white" />
+</p>
+
+
+
+
+
+<h2>🌐 Socials:</h2>
+<p align="left">
+  <a href="https://instagram.com/divyxnsh17" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/divyanschawla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/divyxnsh17" target="_blank">
+    <img src="https://img.shields.io/badge/X-%2318171A.svg?style=flat&logo=X&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://leetcode.com/divyanshchawla" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+
+
 <p align="center">
 <small>View Counter:</small><br>
 <img src="https://profile-counter.glitch.me/divyanshchawla23/count.svg" /> 
 </p>
 
-### Skills
-
-
-<p align="left">
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-    </a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-    </a>
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-    </a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-    </a>
-    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="36" height="36" alt="Android" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width="36" height="36" alt="Firebase" />
-    </a>
-    <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Jetpack_Compose_Logo.png" width="36" height="36" alt="Jetpack Compose" />
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Spring_Logo_2018.svg" width="36" height="36" alt="Spring Boot" />
-    </a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
-    </a>
-    <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Amazon_S3_logo.svg" width="36" height="36" alt="AWS S3" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/MySQL_logo.svg" width="36" height="36" alt="MySQL" />
-    </a>
-    <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Oracle_logo.svg" width="36" height="36" alt="Oracle Database" />
-    </a>
-    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Apache_Maven_logo.svg" width="36" height="36" alt="Maven" />
-    </a>
-    <a href="https://maven.apache.org/pom.html" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Apache_Maven_logo.svg" width="36" height="36" alt="pom.xml" />
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/JetBrains_Logo_2016.svg" width="36" height="36" alt="IDE" />
-    </a>
-    <a href="https://www.jetbrains.com/idea/guide/debug/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/JetBrains_Logo.png" width="36" height="36" alt="Debugger" />
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="36" height="36" alt="GitHub" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png" width="36" height="36" alt="Docker" />
-    </a>
-    <a href="https://circleci.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/CircleCI_Logo.svg" width="36" height="36" alt="CI/CD" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" />
-    </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Numpy_logo_2020.svg" width="36" height="36" alt="NumPy" />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="36" height="36" alt="Pandas" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Microsoft_SQL_Server_logo_2019.svg" width="36" height="36" alt="Microsoft SQL Server" />
-    </a>
-    <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Oracle_logo.svg" width="36" height="36" alt="Oracle Database" />
-    </a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://airflow.apache.org/_images/pin_airflow.svg" width="36" height="36" alt="Airflow" />
-    </a>
-    <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Groovy-Logo.png" width="36" height="36" alt="Groovy" />
-    </a>
-    <a href="https://www.tesseract-ocr.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Tesseract_logo.png" width="36" height="36" alt="Tesseract OCR" />
-    </a>
-    <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Rest_API_logo.png" width="36" height="36" alt="REST API" />
-    </a>
-    <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/SoapUI_logo.png" width="36" height="36" alt="SOAP API" />
-    </a>
-    <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Spring_Cloud_Logo.svg" width="36" height="36" alt="Spring Cloud" />
-    </a>
-    <a href="https://spring.io/projects/spring-cloud-netflix" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Eureka_logo.png" width="36" height="36" alt="Eureka" />
-    </a>
-</p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/divyanshchawla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshchawla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyanshchawla23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshchawla" height="30" width="40" /></a>
-</p>
-
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=divyanshchawla23&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+</div>
