@@ -8,9 +8,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 
-*  👀 I’m interested in Android Development
-* 🌱 I’m currently learning to work on backend
-* 💞️ I’m looking to collaborate on android projects
+* 💻 Software Engineer @ Barclays
+* ⚽️ Premier League proven
+* 💞️ I’m looking to work on backend
 * 📫 How to reach me @divyxnsh17 on X 
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: you can't beat me at fifa
