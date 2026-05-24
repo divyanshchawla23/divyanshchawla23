@@ -55,7 +55,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,spring,aws,azure,firebase,docker,kubernetes,mysql,postgres,sqlite,git,github,maven,gradle,androidstudio,idea,vscode,postman,linux,bash,flask,mongodb,netlify,kafka,jenkins,gitlab,discord,cloudflare,bitbucket,rabbitmq,stackoverflow,swift,visualstudio,windows,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,spring,react,aws,azure,firebase,docker,kubernetes,mysql,postgres,sqlite,git,github,maven,gradle,androidstudio,idea,vscode,postman,linux,bash,flask,mongodb,netlify,kafka,jenkins,gitlab,discord,cloudflare,bitbucket,rabbitmq,stackoverflow,swift,visualstudio,windows,apple)](https://skillicons.dev)
 
 
 
